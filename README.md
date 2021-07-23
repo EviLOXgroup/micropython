@@ -22,6 +22,7 @@ Micropython可以以文本或预编译(mpy)形式执行python代码，无论是�
 
 你可以看看 http://github.com/micropython/pyboard 这个仓库，里面有pyboard开发板的例程和参考资料，pyboard是Micropython官方支持的开发板
 
+
 此仓库的主要组件
 - py/ -- the core Python implementation, including compiler, runtime, and
   core library.
